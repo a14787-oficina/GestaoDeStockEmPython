@@ -32,6 +32,5 @@
 
 - Executa o ficheiro no terminal:
 
-- python nome_do_ficheiro.py
-
+- python 1I-PSI-M3-14787-EXPA04.py
 - Segue as instruções apresentadas no menu.
